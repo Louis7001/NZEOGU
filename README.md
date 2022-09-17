@@ -1,2 +1,2 @@
 # NZEOGU
-my portfolio
+my first portfolio web site
